@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&family=Libre+Baskerville:wght@700&family=Noto+Serif&family=Single+Day&family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,600;1,300&family=Libre+Baskerville:ital,wght@0,700;1,400&family=Noto+Serif&family=Single+Day&family=Ubuntu&display=swap');
+body{
+font-family: 'Single Day', sans-serif;
+    background-color: rgb(154, 161, 167);
+}
+nav{
+    
+    background-color: rgb(113, 143, 233);
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;   
+    height: 1550px
+;
+    width: 900px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    box-shadow: 0 1px 3px rgba(0,0,0.12), 0 1px 2px rgba(0, 0,0, 0.24);
+   
+
+}
+
+.fond{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    
+}
+
+#photo{
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    padding-top:40px;
+    
+}
+img{
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-top: 2px solid #000;
+    margin-top: 20px;
+}
+.a_propos, .atouts, .interet, .langue{
+    margin-left: 20px;
+    margin-right: 600px;
+    margin-top: -20px;
+    line-height: 1.2em;
+}
+.experience_pro{
+    margin-right: 20px;
+    margin-left: 370px;
+    margin-top: -215px;
+    line-height: 1.2em;
+}
+
+.formation{
+    margin-right: 20px;
+    margin-left: 370px;
+    margin-top: -295px;  
+}
+
+.competence{
+    margin-right: 20px;
+    margin-left: 370px;
+    margin-top: -280px; 
+    line-height: 1.2em; 
+}
+.infos{
+  margin-right: 20px;
+    margin-left: 370px;
+    margin-top: -125px; 
+    line-height: 1.2em; 
+}
+
+
+p{
+    font-family:'Josefin Sans', sans-serif ;
+    font-size: 0.8rem;
+    font-weight: bold, sans-serif;
+}
+h2{
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold, sans-serif;
+    text-align: justify;
+    color: #b8b4f7;
+    text-align: center;
+}
+h3{
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold, sans-serif;
+    text-align: justify;
+    color: #b8b4f7;
+}
+h1{
+    font-family: 'Single Day', sans-serif;
+    
+    font-size: 3.5rem;
+    margin-left: 500px;
+    margin-top: -200px;
+
+}
+h5{
+    text-align: center;
+    margin-left: 380px;
+    margin-top: -35px;
+    margin-right: 60px;
+    font-size: 1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h6{
+    font-family: 'Noto Serif', sans-serif;
+    font-size: 1.02rem;
+}
+
+.Ligne{
+    border-bottom: 5px solid black;
+    width: 500px;
+    margin-left: 350px;
+    border-radius: 7px;
+}
+.ligne-verticale {
+    border-left: 5px solid #000; /* Couleur de la ligne et épaisseur */
+    height: 1250px;
+    margin-left: 330px;
+    margin-top: -1238px;
+}
+.gros-point {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: rgb(98, 98, 230); /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-top: 10px;
+    margin-left: 323px;
+  }
+  .gros-point1 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .gros-point2 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .gros-point3 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: rgb(98, 98, 230); /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+    
+  }
+  .gros-point4 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .gros-point5 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .gros-point6 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: rgb(98, 98, 230); /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+    margin-top: 40px;
+  }
+  .gros-point7 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .gros-point8 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .gros-point9 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: rgb(98, 98, 230); /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+    margin-top: 40px;
+  }
+  .gros-point10 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .gros-point11 {
+    width: 20px; /* Largeur du point */
+    height: 20px; /* Hauteur du point */
+    background-color: #000; /* Couleur du point */
+    border-radius: 50%; /* Pour rendre le point circulaire */
+    margin-left: 323px;
+  }
+  .ligne-oblique1 {
+    width: 5px;
+    height: 102px;
+    background-color: #5b046d;
+    transform: rotate(30deg);
+    border-radius: 5px;
+    margin-left: 870px;
+    margin-top: -94px;
+  }
+  .ligne-oblique2 {
+    width: 5px;
+    height: 133px;
+    background-color: #5b046d;
+    transform: rotate(30deg);
+    border-radius: 5px;
+    margin-left: 865px;
+    margin-top: -132px;
+  }
